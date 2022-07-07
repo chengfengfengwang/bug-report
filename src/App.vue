@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <sectionWrapper :title="" />
+    <sectionWrapper : />
     {{ msg }}
   </div>
 </template>
